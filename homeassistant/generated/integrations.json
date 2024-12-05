@@ -4937,6 +4937,12 @@
       "config_flow": false,
       "iot_class": "local_polling"
     },
+    "sdcp_ha": {
+      "name": "SDCP Resin Printer",
+      "integration_type": "hub",
+      "config_flow": true,
+      "iot_class": "local_push"
+    },
     "season": {
       "integration_type": "service",
       "config_flow": true,

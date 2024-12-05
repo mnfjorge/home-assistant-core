@@ -1,0 +1,15 @@
+{
+  "domain": "sdcp_ha",
+  "name": "SDCP Resin Printer",
+  "codeowners": [
+    "@mnfjorge"
+  ],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://www.home-assistant.io/integrations/sdcp_ha",
+  "homekit": {},
+  "iot_class": "local_push",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": []
+}

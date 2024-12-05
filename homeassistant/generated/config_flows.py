@@ -408,6 +408,7 @@ FLOWS = {
         "schlage",
         "scrape",
         "screenlogic",
+        "sdcp_ha",
         "season",
         "sense",
         "sensibo",
